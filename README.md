@@ -5,6 +5,7 @@ By Sid Meier
 In our day-to-day busy schedule one often gets immersed in their work and feels overwhelmed. Individuals get stressed out and cannot work to their full potential which reflects poorly on their work. 
 
 Everyone needs a break to refuel, recharge, and jump back to full throttle. Our goal is to provide a platform for individuals to entertain themselves and take a break from their everyday tasks through gaming.
+
 # How the game works
 - The game opens with setting up the user's web cam and opens the start screen of the game.
 
@@ -16,4 +17,5 @@ Everyone needs a break to refuel, recharge, and jump back to full throttle. Our 
 
 - Failing to destroy the enemy jet will result in a loss of life. The game will end once all lives are lost.
 
+# Demo Video
 https://user-images.githubusercontent.com/78225681/178315028-6543d91d-37ed-429d-9019-cd7d5833fe85.mp4
